@@ -11,3 +11,17 @@
 -Contato:
 --daniel.alvesb@gmail.com
 ++
+
+-------------------------------------------------------------------------------
+Daniel Veríssimo da Silva
+ÁREAS DE INTERESSE:
+  -Desenvolvimento web(PHP, banco de dados, html, css, javaScript);
+
+CONHECIMENTOS:
+  -Boa noção em -j2ee.
+
+PROJETOS:
+  Ainda não desenvolví nenhum projeto relevante por completo.
+  
+
+  
